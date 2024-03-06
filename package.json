@@ -1,0 +1,16 @@
+{
+  "name": "claude3-prompt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.16.1",
+    "dotenv": "^16.4.5"
+  }
+}
